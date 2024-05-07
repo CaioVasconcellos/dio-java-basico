@@ -26,5 +26,6 @@ public class ContaBancoService {
         ContaBanco conta = new ContaBanco(numero,agencia, nome, saldo);
         contasBanco.add(conta);
         System.out.printf("Olá %s, obrigado por criar uma conta em nosso banco, sua agência é %s, conta %d e seu saldo %.2f já está disponível para saque.", nome,agencia,numero,saldo);
+
     }
 }
