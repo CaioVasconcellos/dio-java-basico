@@ -21,6 +21,11 @@ public class Iphone implements NavegadorDeInternet, ReprodutorMusical, AparelhoT
     }
 
     @Override
+    public void atualizarPagina1() {
+
+    }
+
+    @Override
     public void tocar() {
         System.out.println("Tocando música no Iphone");
 

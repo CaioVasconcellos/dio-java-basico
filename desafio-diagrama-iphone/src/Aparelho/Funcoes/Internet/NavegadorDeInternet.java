@@ -7,4 +7,5 @@ public interface NavegadorDeInternet {
     public void adicionarNovaAba();
 
     public void atualizarPagina();
+
 }
