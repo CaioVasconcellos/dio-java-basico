@@ -3,7 +3,7 @@ Repositório para armazenar conteúdo da DIO Java Básico.
 
 
 # API rest - NUVEM 2024
-Java RESTful API criada para praticar, com uso de Spring Web, Spring JPA, Banco de Dados H2 e Postgre SQL.
+Java RESTful API criada para praticar, com uso de Spring Web, Spring JPA, Banco de Dados H2, PostgreSQL e Railway.
 Diagrama feito com mermaid.
 
 ## Diagrama de Classes
